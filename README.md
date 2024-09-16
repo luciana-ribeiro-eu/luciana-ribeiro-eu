@@ -1,4 +1,4 @@
-## calma pequeno gafanhoto, sou aprendiz de dev 👋
+## bem vindos 👋
 
 <!--
 **luciana-ribeiro-eu/luciana-ribeiro-eu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
